@@ -1,0 +1,21 @@
+{
+  "name": "qa.automation-api.supertest.jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest __Test__/**/*.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@faker-js/faker": "^9.9.0",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4",
+    "jsonschema": "^1.5.0",
+    "supertest": "^7.1.3"
+  }
+}
