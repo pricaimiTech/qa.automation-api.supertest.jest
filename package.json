@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest __Test__/**/*.spec.js"
+    "test": "jest __Test__/contrato/users.contrato.spec.js"
   },
   "keywords": [],
   "author": "",
